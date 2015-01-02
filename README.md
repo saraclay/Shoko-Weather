@@ -1,12 +1,5 @@
-dogeweather
+Shoko Weather
 ===========
 
-Such Weather
-
-http://dogeweather.com
-
-License
-===========
-
-dogeweather is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+Made for my roommate, Shoko. Inspired by Doge Weather (dogeweather.com).
 
